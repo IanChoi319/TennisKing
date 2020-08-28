@@ -1,0 +1,17 @@
+.menu-head>h2{
+
+display: inkine-block;
+padding: 0.5rem;
+}
+
+.card-template{
+	flex-direction: row;
+}
+
+.card-img-left{
+	width: 25%;
+}
+
+.card-template>.card-body{
+	width: 75%;
+}
